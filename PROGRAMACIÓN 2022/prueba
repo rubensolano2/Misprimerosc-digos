@@ -1,0 +1,4 @@
+a= """esto es un mensaje
+con tres
+saltos de lines"""
+print(a)
